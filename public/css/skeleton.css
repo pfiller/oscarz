@@ -416,3 +416,10 @@ there.
 
 /* Larger than Desktop HD */
 @media (min-width: 1200px) {}
+
+
+.table-center { text-align: center; }
+.correct { color: green }
+.incorrect { color: red }
+#entrants tr { cursor: pointer; }
+.selected { background: yellow; }
