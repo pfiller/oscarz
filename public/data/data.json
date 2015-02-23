@@ -1,4 +1,20 @@
 {
+  "winners" : {
+    "picture": "Birdman",
+    "director": "Alejandro Gonz&#xE1;lez I&#xF1;&#xE1;rritu for Birdman",
+    "actor": "Eddie Redmayne for The Theory of Everything",
+    "actress": "Julianne Moore for Still Alice",
+    "supportingActor": "J.K. Simmons for Whiplash",
+    "supportingActress": "Patricia Arquette for Boyhood",
+    "screenplay": "Birdman: Alejandro Gonz&#xE1;lez I&#xF1;&#xE1;rritu, Nicol&#xE1;s Giacobone, Alexander Dinelaris, Armando Bo",
+    "adaptedScreenplay": "The Imitation Game: Graham Moore",
+    "animatedFeature": "Big Hero 6",
+    "foreignLanguage": "Ida: Pawel Pawlikowski",
+    "cinematography": "Birdman: Emmanuel Lubezki",
+    "editing": "Whiplash: Tom Cross",
+    "score": "The Grand Budapest Hotel: Alexandre Desplat",
+    "song": "Selma: Common, John Legend (Glory)"
+  },
   "picks": [
     {
       "entrant": "Meghan",
